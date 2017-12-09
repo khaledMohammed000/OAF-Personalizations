@@ -1,5 +1,5 @@
 - [x] Understanding an OAF Page 
-- [ ] User level Personalizations
+- [x] User level Personalizations
 - [ ] About Page Link
 - [ ] Admin - Setting Profile Options for Personalizations
 - [ ] SPEL in Personalizations
