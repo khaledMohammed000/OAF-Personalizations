@@ -3,5 +3,5 @@
 - [x] About Page Link
 - [x] Admin - Setting Profile Options for Personalizations
 - [x] SPEL in Personalizations
-- [ ] Flexfields in Page
+- [x] Flexfields in Page
 - [ ] Customizaed Look and Feel
