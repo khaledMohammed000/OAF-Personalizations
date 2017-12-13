@@ -4,4 +4,4 @@
 - [x] Admin - Setting Profile Options for Personalizations
 - [x] SPEL in Personalizations
 - [x] Flexfields in Page
-- [ ] Customizaed Look and Feel
+- [x] Customizaed Look and Feel
